@@ -1,6 +1,4 @@
-# coding=UTF-8
-# -*- coding: UTF-8 -*-
-# vim: set fileencoding=UTF-8 :
+# -*- coding: utf-8 -*-
 
 import random
 
